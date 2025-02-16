@@ -1,4 +1,4 @@
-# 🏀 Sports Motion Tracking Using Computer Vision
+# 🏀 Ball Motion Tracking Using Computer Vision
 
 ![image](https://github.com/user-attachments/assets/62e1990b-0bea-455c-b13d-c683cae57cda)
 
