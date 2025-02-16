@@ -1,7 +1,5 @@
 # 🏀 Ball Motion Tracking Using Computer Vision
 
-![image](https://github.com/user-attachments/assets/62e1990b-0bea-455c-b13d-c683cae57cda)
-
 ## 📌 Project Overview
 This project utilizes **computer vision techniques** to track the motion of a basketball in real-time. It helps analyze player performance by tracking the ball's trajectory and movement patterns.
 
@@ -16,6 +14,9 @@ This project utilizes **computer vision techniques** to track the motion of a ba
 - **NumPy**
 - **cvzone**
 - **Color Filtering Techniques**
+
+## Output Refference 
+![image](https://github.com/user-attachments/assets/62e1990b-0bea-455c-b13d-c683cae57cda)
 
 ## 🛠 **Setup & Installation**
 ### 📥 Prerequisites
